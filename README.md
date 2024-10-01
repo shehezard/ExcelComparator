@@ -9,3 +9,6 @@ Output Excel File - Highlights the differences
 
 Summary Change Log - shows changes and error encountered
 ![image](https://github.com/user-attachments/assets/bec6d037-6cba-4170-a7da-aeb412442cca)
+
+Dependancies:
+1. EPPlus by EPPlus Software AB (https://www.epplussoftware.com/en)
