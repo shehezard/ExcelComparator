@@ -52,6 +52,9 @@
             // 
             // listBox1
             // 
+            this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(25, 36);
@@ -63,6 +66,9 @@
             // 
             // listBox2
             // 
+            this.listBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 20;
             this.listBox2.Location = new System.Drawing.Point(26, 36);
@@ -73,6 +79,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox1.Controls.Add(this.buttonDown1);
             this.groupBox1.Controls.Add(this.buttonUp1);
             this.groupBox1.Controls.Add(this.buttonRemove1);
@@ -87,6 +95,7 @@
             // 
             // buttonDown1
             // 
+            this.buttonDown1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonDown1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.buttonDown1.Location = new System.Drawing.Point(482, 446);
             this.buttonDown1.Name = "buttonDown1";
@@ -98,6 +107,7 @@
             // 
             // buttonUp1
             // 
+            this.buttonUp1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonUp1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.buttonUp1.Location = new System.Drawing.Point(423, 446);
             this.buttonUp1.Name = "buttonUp1";
@@ -109,6 +119,7 @@
             // 
             // buttonRemove1
             // 
+            this.buttonRemove1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.buttonRemove1.Location = new System.Drawing.Point(199, 446);
             this.buttonRemove1.Name = "buttonRemove1";
             this.buttonRemove1.Size = new System.Drawing.Size(168, 53);
@@ -119,6 +130,7 @@
             // 
             // buttonAdd1
             // 
+            this.buttonAdd1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.buttonAdd1.Location = new System.Drawing.Point(25, 446);
             this.buttonAdd1.Name = "buttonAdd1";
             this.buttonAdd1.Size = new System.Drawing.Size(168, 53);
@@ -129,6 +141,8 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox2.Controls.Add(this.buttonDown2);
             this.groupBox2.Controls.Add(this.buttonUp2);
             this.groupBox2.Controls.Add(this.buttonRemove2);
@@ -143,6 +157,7 @@
             // 
             // buttonDown2
             // 
+            this.buttonDown2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonDown2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.buttonDown2.Location = new System.Drawing.Point(483, 446);
             this.buttonDown2.Name = "buttonDown2";
@@ -154,6 +169,7 @@
             // 
             // buttonUp2
             // 
+            this.buttonUp2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonUp2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.buttonUp2.Location = new System.Drawing.Point(424, 446);
             this.buttonUp2.Name = "buttonUp2";
@@ -165,6 +181,7 @@
             // 
             // buttonRemove2
             // 
+            this.buttonRemove2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.buttonRemove2.Location = new System.Drawing.Point(200, 446);
             this.buttonRemove2.Name = "buttonRemove2";
             this.buttonRemove2.Size = new System.Drawing.Size(168, 53);
@@ -175,6 +192,7 @@
             // 
             // buttonAdd2
             // 
+            this.buttonAdd2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.buttonAdd2.Location = new System.Drawing.Point(26, 446);
             this.buttonAdd2.Name = "buttonAdd2";
             this.buttonAdd2.Size = new System.Drawing.Size(168, 53);
@@ -185,6 +203,7 @@
             // 
             // buttonCompare
             // 
+            this.buttonCompare.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.buttonCompare.Location = new System.Drawing.Point(380, 655);
             this.buttonCompare.Name = "buttonCompare";
             this.buttonCompare.Size = new System.Drawing.Size(417, 89);
@@ -195,6 +214,8 @@
             // 
             // buttonSelectFolder
             // 
+            this.buttonSelectFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonSelectFolder.Location = new System.Drawing.Point(971, 25);
             this.buttonSelectFolder.Name = "buttonSelectFolder";
             this.buttonSelectFolder.Size = new System.Drawing.Size(147, 48);
@@ -205,6 +226,9 @@
             // 
             // textBoxFolder
             // 
+            this.textBoxFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxFolder.Location = new System.Drawing.Point(25, 35);
             this.textBoxFolder.Name = "textBoxFolder";
             this.textBoxFolder.ReadOnly = true;
@@ -213,6 +237,8 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox3.Controls.Add(this.textBoxFolder);
             this.groupBox3.Controls.Add(this.buttonSelectFolder);
             this.groupBox3.Location = new System.Drawing.Point(21, 553);
@@ -233,11 +259,11 @@
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(1208, 815);
-            this.MinimumSize = new System.Drawing.Size(1208, 815);
+            this.MinimumSize = new System.Drawing.Size(1118, 615);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Excel Comparator";
+            this.Resize += new System.EventHandler(this.Form1_Resize);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);

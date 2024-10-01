@@ -1,12 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ExcelComparator
@@ -333,6 +329,21 @@ namespace ExcelComparator
             {
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        #endregion
+
+        #region -----   Events  -----
+
+        private void Form1_Resize(object sender, EventArgs e)
+        {
+            int margin = 21;
+            int clientWidth = ClientSize.Width - margin;
+
+            groupBox1.Width = clientWidth / 2 - margin;
+            groupBox2.Width = clientWidth / 2 - margin;
+
+            groupBox2.Location = new System.Drawing.Point(groupBox1.Right + margin, groupBox2.Location.Y);
         }
 
         #endregion
