@@ -1,0 +1,24 @@
+Summary Change Log
+[Value Changed] Value in Cell: C2, of Table: ReinforcementProvided, in Worksheet: PSC Girders-1 - Span-1 is different from value in Cell: C2, of Table: ReinforcementProvided, in Worksheet: PSC Girders-1 - Span-1
+[Value Changed] Value in Cell: B10, of Table: DeckEmpiricalDesign, in Worksheet: PSC Girders-1 - Span-1 is different from value in Cell: F26, of Table: DeckEmpiricalDesign, in Worksheet: PSC Girders-1 - Span-1
+[Value Changed] Value in Cell: A19, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1 is different from value in Cell: A19, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1
+[Value Changed] Value in Cell: B19, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1 is different from value in Cell: B19, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1
+[Value Changed] Value in Cell: A22, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1 is different from value in Cell: A22, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1
+[Value Changed] Value in Cell: A23, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1 is different from value in Cell: A23, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1
+[Value Changed] Value in Cell: B23, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1 is different from value in Cell: B23, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1
+[Value Changed] Value in Cell: H31, of Table: ShearTorsionDesignBent1BentCap, in Worksheet: Bent Cap - Bent-1 is different from value in Cell: H31, of Table: ShearTorsionDesignBent1BentCap, in Worksheet: Bent Cap - Bent-1
+
+
+Summary Error Log
+[Value Does Not Exist] Value in Cell: D2, of Table: ReinforcementProvided, in Worksheet: PSC Girders-1 - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: D3, of Table: ReinforcementProvided, in Worksheet: PSC Girders-1 - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: A20, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: B20, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: A21, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: B21, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Value Does Not Exist] Value in Cell: B22, of Table: GirderDimensions, in Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Table Does Not Exist] Table: ConcreteProperties, of Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Table Does Not Exist] Table: RebarProperties, of Worksheet: G-1 (Exterior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26.xlsx
+[Worksheet Does Not Exist] Worksheet: G-2 (Interior) - Span-1 does not exist in File: DesignResults-CALTRANS-2024-09-26 - Copy.xlsx
+[Worksheet Does Not Exist] Worksheet: G-3 (Interior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26.xlsx
+[Worksheet Does Not Exist] Worksheet: G-4 (Interior) - Span-1, does not exist in File: DesignResults-CALTRANS-2024-09-26.xlsx
