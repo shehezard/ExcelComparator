@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelComparator", "ExcelComparator.csproj", "{98051AAD-A1BF-4A26-A4CD-112AF3CDE9D3}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallerExcelComparator", "InstallerExcelComparator\InstallerExcelComparator.vdproj", "{5C92E3E9-1756-4D82-9E3E-E3E8264844F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{98051AAD-A1BF-4A26-A4CD-112AF3CDE9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98051AAD-A1BF-4A26-A4CD-112AF3CDE9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98051AAD-A1BF-4A26-A4CD-112AF3CDE9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C92E3E9-1756-4D82-9E3E-E3E8264844F8}.Debug|Any CPU.ActiveCfg = Debug
+		{5C92E3E9-1756-4D82-9E3E-E3E8264844F8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
