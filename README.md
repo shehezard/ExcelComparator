@@ -1,5 +1,5 @@
 # ExcelComparator
-A tool to compare and highlight differences between batches of Excel files, highlight the changes and give a summary change log
+A tool to compare the differences between batches of Excel files, highlight the changes and give a summary change log
 
 UI - List with mutliselect and multi sort functionality
 ![image](https://github.com/user-attachments/assets/21c1ed1d-c08a-4dd4-b93e-9477adaa7ab8)
